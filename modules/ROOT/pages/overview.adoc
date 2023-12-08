@@ -11,7 +11,7 @@ Learn how to use the Bonita Central and all of its components.
 
 [NOTE]
 ====
-Bonita Central is only available under license. 
+Bonita Central is only available for Subscription editions.
 ====
 
 == Motivations
